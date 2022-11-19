@@ -3,7 +3,7 @@
 Hi there 👋 , It's ME Onkar Pratap Singh
 </h2>
 <h3 align="center">
-A boy who wants to find out the things about CODING!
+A boy who wants to find out & then learn the things about CODING!
 
 ### 🤝 Connect with me:
 - onkarsingh742004@gmail.com
