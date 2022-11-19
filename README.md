@@ -6,7 +6,7 @@ Hi there 👋 , It's ME Onkar Pratap Singh
 A boy who wants to find out & then learn the things about CODING!
 </h2>
 <p align="center">
-  <a href="https://www.instagram.com/_.ansh._.25._/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118440581/202845871-ffa682c5-bbf9-48a0-a7f8-b0f5155284f1.jpg" alt="my banner"></a>
+  <a href="https://twitter.com/onkarsi742004/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118440581/202845871-ffa682c5-bbf9-48a0-a7f8-b0f5155284f1.jpg" alt="my banner"></a>
 
   ### 🤝 Connect with me:
 - onkarsingh742004@gmail.com
