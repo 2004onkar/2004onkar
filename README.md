@@ -10,10 +10,9 @@ A boy who wants to find out & then learn the things about CODING!
 
   ### 🤝 Connect with me:
 - onkarsingh742004@gmail.com
-
-<a href="https://www.linkedin.com/in/onkar-pratap-singh-876462257/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/onkar_pratap_singh__"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-#### .
+<a href="https://www.linkedin.com/in/onkar-pratap-singh-876462257/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
 ### 📈 GitHub Stats...
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=2004onkar)](https://github.com/2004onkar)
